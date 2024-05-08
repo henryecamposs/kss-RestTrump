@@ -1,0 +1,156 @@
+D:\KSS Projects\Net Local Projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.frmMain.resources
+D:\KSS Projects\Net Local Projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.frmSerial.resources
+D:\KSS Projects\Net Local Projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.Properties.Resources.resources
+D:\KSS Projects\Net Local Projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.csproj.GenerateResource.Cache
+D:\KSS Projects\Net Local Projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.csproj.CoreCompileInputs.cache
+D:\KSS Projects\Net Local Projects\kss_RestTrump\RestTrump\bin\x86\Debug\RestTrump.exe.config
+D:\KSS Projects\Net Local Projects\kss_RestTrump\RestTrump\bin\x86\Debug\RestTrump.exe
+D:\KSS Projects\Net Local Projects\kss_RestTrump\RestTrump\bin\x86\Debug\RestTrump.pdb
+D:\KSS Projects\Net Local Projects\kss_RestTrump\RestTrump\bin\x86\Debug\Bunifu_UI_v1.5.3.dll
+D:\KSS Projects\Net Local Projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar.Layout.dll
+D:\KSS Projects\Net Local Projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\KSS Projects\Net Local Projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar2.dll
+D:\KSS Projects\Net Local Projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.Instrumentation.dll
+D:\KSS Projects\Net Local Projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\KSS Projects\Net Local Projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar2.xml
+D:\KSS Projects\Net Local Projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.Instrumentation.xml
+D:\KSS Projects\Net Local Projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.exe
+D:\KSS Projects\Net Local Projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.pdb
+D:\KSS Projects\Net Local Projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.csprojResolveAssemblyReference.cache
+D:\KSS Projects\Net Local Projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.frmValor_Divisa.resources
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\POS\TFHKA\TfhkaNet.dll
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\RestTrump.exe.config
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\RestTrump.exe
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\RestTrump.pdb
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\Bunifu_UI_v1.5.3.dll
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar.Layout.dll
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar2.dll
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\ksslib.dll
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\kssLibKey_c.dll
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\ksslib_c.dll
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\Newtonsoft.Json.dll
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\zxing.dll
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.Instrumentation.dll
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\System.Data.SQLite.dll
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\Microsoft.SqlServer.Smo.dll
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\AutoMapper.dll
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\TfhkaNet.dll
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\EntityFramework.dll
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\kssLibKey_c.pdb
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\kssLibKey_c.dll.config
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\ksslib_c.pdb
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\ksslib_c.dll.config
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\Newtonsoft.Json.xml
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\System.Data.SQLite.xml
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\System.Data.SQLite.dll.config
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\EntityFramework.xml
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.csprojResolveAssemblyReference.cache
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.frmMain.resources
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.frmMonitorvlaView.resources
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.frmSerial.resources
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.frmValor_Divisa.resources
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.Properties.Resources.resources
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.csproj.GenerateResource.Cache
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.csproj.CoreCompileInputs.cache
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.exe
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.pdb
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\SpinningProgress.dll
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\ksslib.pdb
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\ksslib.xml
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\POS\BMC\FpCtrl.dll
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RestTrump\RestTrump\bin\x86\Debug\POS\tfhkaif.dll
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.frmMain.resources
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.frmMonitorvlaView.resources
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.frmSerial.resources
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.frmValor_Divisa.resources
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.Properties.Resources.resources
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.csproj.GenerateResource.cache
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.csproj.CoreCompileInputs.cache
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\bin\x86\Debug\RestTrump.exe.config
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\bin\x86\Debug\RestTrump.exe
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\bin\x86\Debug\RestTrump.pdb
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\bin\x86\Debug\Bunifu_UI_v1.5.3.dll
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\bin\x86\Debug\ksslib.dll
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\bin\x86\Debug\kssLibKey_c.dll
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\bin\x86\Debug\ksslib_c.dll
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\bin\x86\Debug\Newtonsoft.Json.dll
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.csproj.CopyComplete
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.exe
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.pdb
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar.Layout.dll
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar2.dll
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.Instrumentation.dll
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar.Layout.xml
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar2.xml
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.Instrumentation.xml
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.csprojAssemblyReference.cache
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.ctrlBase.resources
+D:\KSS Projects\kss Extensiones\Net Local projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.ctrlTransparent.resources
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\RestTrump.exe.config
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\RestTrump.exe
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\RestTrump.pdb
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\Bunifu_UI_v1.5.3.dll
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar.Layout.dll
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar2.dll
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\ksslib.dll
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\ksslib_c.dll
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\Newtonsoft.Json.dll
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.Instrumentation.dll
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar.Layout.xml
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar2.xml
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.Instrumentation.xml
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.ctrlBase.resources
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.ctrlTransparent.resources
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.frmConfig.resources
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.frmMain.resources
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.frmMonitorvlaView.resources
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.frmSerial.resources
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.frmValor_Divisa.resources
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.Properties.Resources.resources
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.csproj.GenerateResource.cache
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.csproj.CoreCompileInputs.cache
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.csproj.CopyComplete
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.exe
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.pdb
+D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.csprojAssemblyReference.cache
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\RestTrump.exe.config
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\RestTrump.exe
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\RestTrump.pdb
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\Bunifu_UI_v1.5.3.dll
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar.Layout.dll
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar2.dll
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\ksslib.dll
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\ksslib_c.dll
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\Newtonsoft.Json.dll
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.Instrumentation.dll
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar.Layout.xml
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.DotNetBar2.xml
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\DevComponents.Instrumentation.xml
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.ctrlBase.resources
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.ctrlTransparent.resources
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.frmConfig.resources
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.frmMain.resources
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.frmMonitorvlaView.resources
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.frmSerial.resources
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.frmValor_Divisa.resources
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.Properties.Resources.resources
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.csproj.GenerateResource.cache
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.csproj.CoreCompileInputs.cache
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.csproj.CopyComplete
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.exe
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.pdb
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\obj\x86\Debug\RestTrump.csprojAssemblyReference.cache
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\Microsoft.SqlServer.Smo.dll
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\Microsoft.SqlServer.Dmf.dll
+D:\KSS_Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\x86\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll

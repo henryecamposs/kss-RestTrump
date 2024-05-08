@@ -1,0 +1,961 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsPpal" targetNamespace="http://tempuri.org/dsPpal.xsd" xmlns:mstns="http://tempuri.org/dsPpal.xsd" xmlns="http://tempuri.org/dsPpal.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="cnnRestTrump" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="cnnRestTrump (Settings)" PropertyReference="ApplicationSettings.RestTrump.Properties.Settings.GlobalReference.Default.cnnRestTrump" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="invencTableAdapter" GeneratorDataComponentClassName="invencTableAdapter" Name="invenc" UserDataComponentName="invencTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="invenc" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT        altoi, anchoi, areceta, barra, bloqueor, cantides, clasifi, codigo, codsaint AS divisafactor, colorf, descr, descrkp, fuentec, fuentef, fuentes, fuentet, fuentetop, grupo, lastsin, lastup, marca, maximo_ex, maximo_sus, medidae, 
+                         nivel, nombre, peso, pidecanti, pidepre, precio, precio1, precio2 AS divisa, retorno, servi, titulo, tiva, unidad, unidadc, unidade
+FROM            invenc</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="codigo" DataSetColumn="codigo" />
+              <Mapping SourceColumn="descr" DataSetColumn="descr" />
+              <Mapping SourceColumn="precio" DataSetColumn="precio" />
+              <Mapping SourceColumn="tiva" DataSetColumn="tiva" />
+              <Mapping SourceColumn="divisa" DataSetColumn="divisa" />
+              <Mapping SourceColumn="grupo" DataSetColumn="grupo" />
+              <Mapping SourceColumn="nombre" DataSetColumn="nombre" />
+              <Mapping SourceColumn="descrkp" DataSetColumn="descrkp" />
+              <Mapping SourceColumn="unidad" DataSetColumn="unidad" />
+              <Mapping SourceColumn="unidade" DataSetColumn="unidade" />
+              <Mapping SourceColumn="titulo" DataSetColumn="titulo" />
+              <Mapping SourceColumn="colorf" DataSetColumn="colorf" />
+              <Mapping SourceColumn="servi" DataSetColumn="servi" />
+              <Mapping SourceColumn="altoi" DataSetColumn="altoi" />
+              <Mapping SourceColumn="anchoi" DataSetColumn="anchoi" />
+              <Mapping SourceColumn="fuentet" DataSetColumn="fuentet" />
+              <Mapping SourceColumn="fuentef" DataSetColumn="fuentef" />
+              <Mapping SourceColumn="fuentec" DataSetColumn="fuentec" />
+              <Mapping SourceColumn="fuentes" DataSetColumn="fuentes" />
+              <Mapping SourceColumn="nivel" DataSetColumn="nivel" />
+              <Mapping SourceColumn="pidepre" DataSetColumn="pidepre" />
+              <Mapping SourceColumn="pidecanti" DataSetColumn="pidecanti" />
+              <Mapping SourceColumn="retorno" DataSetColumn="retorno" />
+              <Mapping SourceColumn="fuentetop" DataSetColumn="fuentetop" />
+              <Mapping SourceColumn="marca" DataSetColumn="marca" />
+              <Mapping SourceColumn="maximo_ex" DataSetColumn="maximo_ex" />
+              <Mapping SourceColumn="maximo_sus" DataSetColumn="maximo_sus" />
+              <Mapping SourceColumn="bloqueor" DataSetColumn="bloqueor" />
+              <Mapping SourceColumn="peso" DataSetColumn="peso" />
+              <Mapping SourceColumn="unidadc" DataSetColumn="unidadc" />
+              <Mapping SourceColumn="medidae" DataSetColumn="medidae" />
+              <Mapping SourceColumn="areceta" DataSetColumn="areceta" />
+              <Mapping SourceColumn="cantides" DataSetColumn="cantides" />
+              <Mapping SourceColumn="lastsin" DataSetColumn="lastsin" />
+              <Mapping SourceColumn="lastup" DataSetColumn="lastup" />
+              <Mapping SourceColumn="barra" DataSetColumn="barra" />
+              <Mapping SourceColumn="divisafactor" DataSetColumn="divisafactor" />
+              <Mapping SourceColumn="clasifi" DataSetColumn="clasifi" />
+              <Mapping SourceColumn="precio1" DataSetColumn="precio1" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="" DbObjectType="Unknown" GenerateShortCommands="true" GeneratorSourceName="DeleteQueryPorCodigo" Modifier="Public" Name="DeleteQueryPorCodigo" QueryType="NoData" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="DeleteQueryPorCodigo">
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>DELETE FROM invenc
+WHERE        (codigo = ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param1" ColumnName="codigo" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(18)" DbType="AnsiString" Direction="Input" ParameterName="codigo" Precision="0" ProviderType="Char" Scale="0" Size="18" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </DeleteCommand>
+              </DbSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="invenc" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="FillByCodigo" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByCodigo" GeneratorSourceName="FillByCodigo" GetMethodModifier="Public" GetMethodName="GetDataByCodigo" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByCodigo" UserSourceName="FillByCodigo">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        altoi, anchoi, areceta, barra, bloqueor, cantides, clasifi, codigo, codsaint AS divisafactor, colorf, descr, descrkp, fuentec, fuentef, fuentes, fuentet, fuentetop, grupo, lastsin, lastup, marca, maximo_ex, maximo_sus, medidae, 
+                         nivel, nombre, peso, pidecanti, pidepre, precio, precio1, precio2 AS divisa, retorno, servi, titulo, tiva, unidad, unidadc, unidade
+FROM            invenc
+WHERE        (codigo = ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param1" ColumnName="codigo" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(18)" DbType="AnsiString" Direction="Input" ParameterName="codigo" Precision="0" ProviderType="Char" Scale="0" Size="18" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="inven" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="FillByDescr" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByDescr" GeneratorSourceName="FillByDescr" GetMethodModifier="Public" GetMethodName="GetDataByDescr" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByDescr" UserSourceName="FillByDescr">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        altoi, anchoi, areceta, barra, bloqueor, cantides, clasifi, codigo, codsaint AS divisafactor, colorf, descr, descrkp, fuentec, fuentef, fuentes, fuentet, fuentetop, grupo, lastsin, lastup, marca, maximo_ex, maximo_sus, medidae, 
+                         nivel, nombre, peso, pidecanti, pidepre, precio, precio1, precio2 AS divisa, retorno, servi, titulo, tiva, unidad, unidadc, unidade
+FROM            invenc
+WHERE        (descr LIKE ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param1" ColumnName="descr" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(40)" DbType="AnsiString" Direction="Input" ParameterName="descr" Precision="0" ProviderType="Char" Scale="0" Size="40" SourceColumn="descr" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="invenc" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="FillByProductosNuevos" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByProductosNuevos" GeneratorSourceName="FillByProductosNuevos" GetMethodModifier="Public" GetMethodName="GetDataByProductosNuevos" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByProductosNuevos" UserSourceName="FillByProductosNuevos">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        altoi, anchoi, areceta, barra, bloqueor, cantides, clasifi, codigo, codsaint AS divisafactor, colorf, descr, descrkp, fuentec, fuentef, fuentes, fuentet, fuentetop, grupo, lastsin, lastup, marca, maximo_ex, maximo_sus, medidae, 
+                         nivel, nombre, peso, pidecanti, pidepre, precio, precio1, precio2 AS divisa, retorno, servi, titulo, tiva, unidad, unidadc, unidade
+FROM            invenc
+WHERE        (precio2 = 0)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectType="Unknown" GenerateShortCommands="true" GeneratorSourceName="UpdateQueryModificado" Modifier="Public" Name="UpdateQueryModificado" QueryType="NoData" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy1" UserSourceName="UpdateQueryModificado">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>UPDATE       invenc
+SET                altoi = ?, anchoi = ?, areceta = ?, barra = ?, bloqueor = ?, cantides = ?, clasifi = ?, codigo = ?, codsaint = ?, colorf = ?, descr = ?, descrkp = ?, fuentec = ?, fuentef = ?, fuentes = ?, fuentet = ?, fuentetop = ?, grupo = ?, lastsin = ?, 
+                         lastup = ?, marca = ?, maximo_ex = ?, maximo_sus = ?, medidae = ?, nivel = ?, nombre = ?, peso = ?, pidecanti = ?, pidepre = ?, precio = ?, precio1 = ?, precio2 = ?, retorno = ?, servi = ?, titulo = ?, tiva = ?, unidad = ?, 
+                         unidadc = ?, unidade = ?
+WHERE        (codigo = ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param1" ColumnName="altoi" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="altoi" Precision="3" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="altoi" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param2" ColumnName="anchoi" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="anchoi" Precision="3" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="anchoi" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param3" ColumnName="areceta" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="areceta" Precision="1" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="areceta" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param4" ColumnName="barra" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(18)" DbType="AnsiString" Direction="Input" ParameterName="barra" Precision="0" ProviderType="Char" Scale="0" Size="18" SourceColumn="barra" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param5" ColumnName="bloqueor" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="bloqueor" Precision="1" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="bloqueor" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param6" ColumnName="cantides" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="cantides" Precision="14" ProviderType="Numeric" Scale="6" Size="0" SourceColumn="cantides" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param7" ColumnName="clasifi" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="clasifi" Precision="1" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="clasifi" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param8" ColumnName="codigo" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(18)" DbType="AnsiString" Direction="Input" ParameterName="codigo" Precision="0" ProviderType="Char" Scale="0" Size="18" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param9" ColumnName="codsaint" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(15)" DbType="AnsiString" Direction="Input" ParameterName="codsaint" Precision="0" ProviderType="Char" Scale="0" Size="15" SourceColumn="codsaint" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param10" ColumnName="colorf" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="colorf" Precision="10" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="colorf" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param11" ColumnName="descr" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(40)" DbType="AnsiString" Direction="Input" ParameterName="descr" Precision="0" ProviderType="Char" Scale="0" Size="40" SourceColumn="descr" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param12" ColumnName="descrkp" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(30)" DbType="AnsiString" Direction="Input" ParameterName="descrkp" Precision="0" ProviderType="Char" Scale="0" Size="30" SourceColumn="descrkp" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param13" ColumnName="fuentec" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="fuentec" Precision="10" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="fuentec" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param14" ColumnName="fuentef" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(2)" DbType="AnsiString" Direction="Input" ParameterName="fuentef" Precision="0" ProviderType="Char" Scale="0" Size="2" SourceColumn="fuentef" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param15" ColumnName="fuentes" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="fuentes" Precision="3" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="fuentes" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param16" ColumnName="fuentet" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(40)" DbType="AnsiString" Direction="Input" ParameterName="fuentet" Precision="0" ProviderType="Char" Scale="0" Size="40" SourceColumn="fuentet" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param17" ColumnName="fuentetop" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="fuentetop" Precision="2" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="fuentetop" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param18" ColumnName="grupo" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(2)" DbType="AnsiString" Direction="Input" ParameterName="grupo" Precision="0" ProviderType="Char" Scale="0" Size="2" SourceColumn="grupo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param19" ColumnName="lastsin" DataSourceName="invenc" DataTypeServer="DbType.Time" DbType="DateTime" Direction="Input" ParameterName="lastsin" Precision="0" ProviderType="DBTimeStamp" Scale="0" Size="0" SourceColumn="lastsin" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param20" ColumnName="lastup" DataSourceName="invenc" DataTypeServer="DbType.Time" DbType="DateTime" Direction="Input" ParameterName="lastup" Precision="0" ProviderType="DBTimeStamp" Scale="0" Size="0" SourceColumn="lastup" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param21" ColumnName="marca" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="marca" Precision="1" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="marca" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param22" ColumnName="maximo_ex" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="maximo_ex" Precision="2" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="maximo_ex" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param23" ColumnName="maximo_sus" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="maximo_sus" Precision="2" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="maximo_sus" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param24" ColumnName="medidae" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(2)" DbType="AnsiString" Direction="Input" ParameterName="medidae" Precision="0" ProviderType="Char" Scale="0" Size="2" SourceColumn="medidae" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param25" ColumnName="nivel" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="nivel" Precision="1" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="nivel" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param26" ColumnName="nombre" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(40)" DbType="AnsiString" Direction="Input" ParameterName="nombre" Precision="0" ProviderType="Char" Scale="0" Size="40" SourceColumn="nombre" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param27" ColumnName="peso" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="peso" Precision="1" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="peso" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param28" ColumnName="pidecanti" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="pidecanti" Precision="1" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="pidecanti" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param29" ColumnName="pidepre" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="pidepre" Precision="1" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="pidepre" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param30" ColumnName="precio" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param31" ColumnName="precio1" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio1" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio1" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param32" ColumnName="precio2" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio2" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio2" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param33" ColumnName="retorno" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="retorno" Precision="1" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="retorno" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param34" ColumnName="servi" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="servi" Precision="1" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="servi" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param35" ColumnName="titulo" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="titulo" Precision="1" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="titulo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param36" ColumnName="tiva" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="tiva" Precision="1" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="tiva" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param37" ColumnName="unidad" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="unidad" Precision="1" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="unidad" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param38" ColumnName="unidadc" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(2)" DbType="AnsiString" Direction="Input" ParameterName="unidadc" Precision="0" ProviderType="Char" Scale="0" Size="2" SourceColumn="unidadc" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param39" ColumnName="unidade" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="unidade" Precision="8" ProviderType="Numeric" Scale="4" Size="0" SourceColumn="unidade" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param40" ColumnName="codigo" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(18)" DbType="AnsiString" Direction="Input" ParameterName="Original_codigo" Precision="0" ProviderType="Char" Scale="0" Size="18" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>UPDATE       invenc
+SET                precio1 = ?, precio2 = ?, precio = ?
+WHERE        (codigo = ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param1" ColumnName="precio1" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio1" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio1" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param2" ColumnName="precio2" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio2" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio2" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param3" ColumnName="precio" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param4" ColumnName="codigo" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(18)" DbType="AnsiString" Direction="Input" ParameterName="Original_codigo" Precision="0" ProviderType="Char" Scale="0" Size="18" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectType="Unknown" GenerateShortCommands="true" GeneratorSourceName="UpdateQueryPorCodigo" Modifier="Public" Name="UpdateQueryPorCodigo" QueryType="NoData" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy2" UserSourceName="UpdateQueryPorCodigo">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>UPDATE       invenc
+SET                precio = ?, precio2 = ?, descr = ?, nombre = ?, descrkp = ?
+WHERE        (codigo = ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param1" ColumnName="precio" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param2" ColumnName="precio2" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio2" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio2" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param3" ColumnName="descr" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(40)" DbType="AnsiString" Direction="Input" ParameterName="descr" Precision="0" ProviderType="Char" Scale="0" Size="40" SourceColumn="descr" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param4" ColumnName="nombre" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(40)" DbType="AnsiString" Direction="Input" ParameterName="nombre" Precision="0" ProviderType="Char" Scale="0" Size="40" SourceColumn="nombre" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param5" ColumnName="descrkp" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(30)" DbType="AnsiString" Direction="Input" ParameterName="descrkp" Precision="0" ProviderType="Char" Scale="0" Size="30" SourceColumn="descrkp" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param6" ColumnName="codigo" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(18)" DbType="AnsiString" Direction="Input" ParameterName="Original_codigo" Precision="0" ProviderType="Char" Scale="0" Size="18" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>UPDATE       invenc
+SET                precio1 = ?, precio2 = ?, precio = ?, descr = ?, descr = ?, descr = ?
+WHERE        (codigo = ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param1" ColumnName="precio1" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio1" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio1" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param2" ColumnName="precio2" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio2" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio2" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param3" ColumnName="precio" DataSourceName="invenc" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param4" ColumnName="descr" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(40)" DbType="AnsiString" Direction="Input" ParameterName="descr" Precision="0" ProviderType="Char" Scale="0" Size="40" SourceColumn="descr" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param5" ColumnName="descr" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(40)" DbType="AnsiString" Direction="Input" ParameterName="descr1" Precision="0" ProviderType="Char" Scale="0" Size="40" SourceColumn="descr" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param6" ColumnName="descr" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(40)" DbType="AnsiString" Direction="Input" ParameterName="descr2" Precision="0" ProviderType="Char" Scale="0" Size="40" SourceColumn="descr" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param7" ColumnName="codigo" DataSourceName="invenc" DataTypeServer="DbType.AnsiStringFixedLength(18)" DbType="AnsiString" Direction="Input" ParameterName="Original_codigo" Precision="0" ProviderType="Char" Scale="0" Size="18" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="taxTableAdapter" GeneratorDataComponentClassName="taxTableAdapter" Name="tax" UserDataComponentName="taxTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="tax" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>INSERT INTO `tax` (`tipo`, `valor`, `nombre`, `nomencla`) VALUES (?, ?, ?, ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Decimal" Direction="Input" ParameterName="tipo" Precision="1" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="tipo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Decimal" Direction="Input" ParameterName="valor" Precision="4" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="valor" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="nombre" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="nombre" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="nomencla" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="nomencla" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT        tipo, valor, nombre, nomencla
+FROM            tax</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="tipo" DataSetColumn="tipo" />
+              <Mapping SourceColumn="valor" DataSetColumn="valor" />
+              <Mapping SourceColumn="nombre" DataSetColumn="nombre" />
+              <Mapping SourceColumn="nomencla" DataSetColumn="nomencla" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="invenc_usaTableAdapter" GeneratorDataComponentClassName="invenc_usaTableAdapter" Name="invenc_usa" UserDataComponentName="invenc_usaTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="invenc_usa" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT        codigo, descr, precio, precio2 AS divisa, codsaint AS divisafactor
+FROM            invenc_usa</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="codigo" DataSetColumn="codigo" />
+              <Mapping SourceColumn="descr" DataSetColumn="descr" />
+              <Mapping SourceColumn="precio" DataSetColumn="precio" />
+              <Mapping SourceColumn="divisa" DataSetColumn="divisa" />
+              <Mapping SourceColumn="divisafactor" DataSetColumn="divisafactor" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectType="Unknown" GenerateShortCommands="true" GeneratorSourceName="DeleteQuery" Modifier="Public" Name="DeleteQuery" QueryType="NoData" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="DeleteQuery">
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>DELETE FROM inven_usa</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </DeleteCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>DELETE FROM invenc_usa</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectType="Unknown" GenerateShortCommands="true" GeneratorSourceName="UpdateQueryPorCodigo" Modifier="Public" Name="UpdateQueryPorCodigo" QueryType="NoData" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy1" UserSourceName="UpdateQueryPorCodigo">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>UPDATE       invenc_usa
+SET                precio = ?, precio2 = ?, codsaint = ?
+WHERE        (codigo = ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param1" ColumnName="precio" DataSourceName="invenc_usa" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param2" ColumnName="precio2" DataSourceName="invenc_usa" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio2" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio2" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param3" ColumnName="codsaint" DataSourceName="invenc_usa" DataTypeServer="DbType.AnsiStringFixedLength(15)" DbType="AnsiString" Direction="Input" ParameterName="codsaint" Precision="0" ProviderType="Char" Scale="0" Size="15" SourceColumn="codsaint" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param4" ColumnName="codigo" DataSourceName="invenc_usa" DataTypeServer="DbType.AnsiStringFixedLength(18)" DbType="AnsiString" Direction="Input" ParameterName="Original_codigo" Precision="0" ProviderType="Char" Scale="0" Size="18" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>UPDATE       invenc_usa
+SET                precio = ?, precio1 = ?, precio2 = ?
+WHERE        (codigo = ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param1" ColumnName="precio" DataSourceName="invenc_usa" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param2" ColumnName="precio1" DataSourceName="invenc_usa" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio1" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio1" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param3" ColumnName="precio2" DataSourceName="invenc_usa" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio2" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio2" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Param4" ColumnName="codigo" DataSourceName="invenc_usa" DataTypeServer="DbType.AnsiStringFixedLength(18)" DbType="AnsiString" Direction="Input" ParameterName="Original_codigo" Precision="0" ProviderType="Char" Scale="0" Size="18" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="grupoTableAdapter" GeneratorDataComponentClassName="grupoTableAdapter" Name="grupo" UserDataComponentName="grupoTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="grupo" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>INSERT INTO `grupo` (`codigo`, `nombre`) VALUES (?, ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="codigo" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="nombre" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="nombre" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT        codigo, nombre
+FROM            grupo</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="codigo" DataSetColumn="codigo" />
+              <Mapping SourceColumn="nombre" DataSetColumn="nombre" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tipo_empaTableAdapter" GeneratorDataComponentClassName="tipo_empaTableAdapter" Name="tipo_empa" UserDataComponentName="tipo_empaTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="tipo_empa" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>INSERT INTO `tipo_empa` (`codigo`, `descr`, `descr1`) VALUES (?, ?, ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="codigo" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="descr" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="descr" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="descr1" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="descr1" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `codigo`, `descr`, `descr1` FROM `tipo_empa`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="codigo" DataSetColumn="codigo" />
+              <Mapping SourceColumn="descr" DataSetColumn="descr" />
+              <Mapping SourceColumn="descr1" DataSetColumn="descr1" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="" DbObjectType="Unknown" GenerateShortCommands="true" GeneratorSourceName="DeleteQuery" Modifier="Public" Name="DeleteQuery" QueryType="NoData" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="DeleteQuery">
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>UPDATE       tipo_empa
+SET                descr = ?, descr1 = ?
+WHERE        (codigo = ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param1" ColumnName="descr" DataSourceName="tipo_empa" DataTypeServer="DbType.AnsiStringFixedLength(20)" DbType="AnsiString" Direction="Input" ParameterName="descr" Precision="0" ProviderType="Char" Scale="0" Size="20" SourceColumn="descr" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param2" ColumnName="descr1" DataSourceName="tipo_empa" DataTypeServer="DbType.AnsiStringFixedLength(5)" DbType="AnsiString" Direction="Input" ParameterName="descr1" Precision="0" ProviderType="Char" Scale="0" Size="5" SourceColumn="descr1" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param3" ColumnName="codigo" DataSourceName="tipo_empa" DataTypeServer="DbType.AnsiStringFixedLength(2)" DbType="AnsiString" Direction="Input" ParameterName="Original_codigo" Precision="0" ProviderType="Char" Scale="0" Size="2" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </DeleteCommand>
+              </DbSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="tipo_empa" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="FillBy" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataDescrUNIDAD" GeneratorSourceName="FillBy" GetMethodModifier="Public" GetMethodName="GetDataDescrUNIDAD" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataDescrUNIDAD" UserSourceName="FillBy">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        codigo, descr, descr1
+FROM            tipo_empa
+WHERE        (descr LIKE 'unidad') OR
+                         (descr LIKE 'Unidad') OR
+                         (descr LIKE 'UNIDAD')</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="tipo_empa" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="FillByCodigo" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataBy1" GeneratorSourceName="FillByCodigo" GetMethodModifier="Public" GetMethodName="GetDataBy1" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy1" UserSourceName="FillByCodigo">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        codigo, descr, descr1
+FROM            tipo_empa
+WHERE        (codigo = ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param1" ColumnName="codigo" DataSourceName="tipo_empa" DataTypeServer="DbType.AnsiStringFixedLength(2)" DbType="AnsiString" Direction="Input" ParameterName="codigo" Precision="0" ProviderType="Char" Scale="0" Size="2" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="tipo_empa" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="FillByDescr" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataBy11" GeneratorSourceName="FillByDescr" GetMethodModifier="Public" GetMethodName="GetDataBy11" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy11" UserSourceName="FillByDescr">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        codigo, descr, descr1
+FROM            tipo_empa
+WHERE        (descr = ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param1" ColumnName="descr" DataSourceName="tipo_empa" DataTypeServer="DbType.AnsiStringFixedLength(20)" DbType="AnsiString" Direction="Input" ParameterName="descr" Precision="0" ProviderType="Char" Scale="0" Size="20" SourceColumn="descr" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="" DbObjectType="Unknown" GenerateShortCommands="true" GeneratorSourceName="InsertQuery" Modifier="Public" Name="InsertQuery" QueryType="NoData" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy2" UserSourceName="InsertQuery">
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>INSERT INTO tipo_empa
+                         (codigo, descr, descr1)
+VALUES        (?, ?, ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param1" ColumnName="codigo" DataSourceName="tipo_empa" DataTypeServer="DbType.AnsiStringFixedLength(2)" DbType="AnsiString" Direction="Input" ParameterName="codigo" Precision="0" ProviderType="Char" Scale="0" Size="2" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param2" ColumnName="descr" DataSourceName="tipo_empa" DataTypeServer="DbType.AnsiStringFixedLength(20)" DbType="AnsiString" Direction="Input" ParameterName="descr" Precision="0" ProviderType="Char" Scale="0" Size="20" SourceColumn="descr" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param3" ColumnName="descr1" DataSourceName="tipo_empa" DataTypeServer="DbType.AnsiStringFixedLength(5)" DbType="AnsiString" Direction="Input" ParameterName="descr1" Precision="0" ProviderType="Char" Scale="0" Size="5" SourceColumn="descr1" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+              </DbSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectType="Unknown" GenerateShortCommands="true" GeneratorSourceName="ScalarQuery" Modifier="Public" Name="ScalarQuery" QueryType="Scalar" ScalarCallRetval="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy3" UserSourceName="ScalarQuery">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        MAX(codigo) AS ultCodigo
+FROM            tipo_empa</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="monedasTableAdapter" GeneratorDataComponentClassName="monedasTableAdapter" Name="monedas" UserDataComponentName="monedasTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="monedas" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>INSERT INTO `monedas` (`codigo`, `factor`, `descr`, `local`) VALUES (?, ?, ?, ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Decimal" Direction="Input" ParameterName="codigo" Precision="2" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Decimal" Direction="Input" ParameterName="factor" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="factor" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="descr" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="descr" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Decimal" Direction="Input" ParameterName="local" Precision="1" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="local" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT        codigo, factor, descr, `local`
+FROM            monedas</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="codigo" DataSetColumn="codigo" />
+              <Mapping SourceColumn="factor" DataSetColumn="factor" />
+              <Mapping SourceColumn="descr" DataSetColumn="descr" />
+              <Mapping SourceColumn="local" DataSetColumn="local" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="monedas" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="FillByCodigo" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataBy1" GeneratorSourceName="FillByCodigo" GetMethodModifier="Public" GetMethodName="GetDataBy1" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy1" UserSourceName="FillByCodigo">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        codigo, factor, descr, `local`
+FROM            monedas
+WHERE        (codigo = ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param1" ColumnName="codigo" DataSourceName="monedas" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="codigo" Precision="2" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="" DbObjectType="Unknown" GenerateShortCommands="true" GeneratorSourceName="UpdateQuery" Modifier="Public" Name="UpdateQuery" QueryType="NoData" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="UpdateQuery">
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>UPDATE       monedas
+SET                factor = ?
+WHERE        (codigo = ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param1" ColumnName="factor" DataSourceName="monedas" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="factor" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="factor" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param2" ColumnName="codigo" DataSourceName="monedas" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="Original_codigo" Precision="2" ProviderType="Numeric" Scale="0" Size="0" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="modifiTableAdapter" GeneratorDataComponentClassName="modifiTableAdapter" Name="modifi" UserDataComponentName="modifiTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="modifi" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>INSERT INTO `modifi` (`codigo`, `descr`, `precio`, `precio2`) VALUES (?, ?, ?, ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="codigo" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="descr" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="descr" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Decimal" Direction="Input" ParameterName="precio" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Decimal" Direction="Input" ParameterName="divisa" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="divisa" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT        codigo, descr, precio, precio2 AS divisa, codsaint AS divisafactor
+FROM            modifi</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="codigo" DataSetColumn="codigo" />
+              <Mapping SourceColumn="descr" DataSetColumn="descr" />
+              <Mapping SourceColumn="precio" DataSetColumn="precio" />
+              <Mapping SourceColumn="divisa" DataSetColumn="divisa" />
+              <Mapping SourceColumn="divisafactor" DataSetColumn="divisafactor" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="modifi" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="FillByCodigo" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByCodigo" GeneratorSourceName="FillByCodigo" GetMethodModifier="Public" GetMethodName="GetDataByCodigo" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByCodigo" UserSourceName="FillByCodigo">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        codigo, descr, precio, precio2 AS divisa, codsaint AS divisafactor
+FROM            modifi
+WHERE        (codigo = ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param1" ColumnName="codigo" DataSourceName="modifi" DataTypeServer="DbType.AnsiStringFixedLength(18)" DbType="AnsiString" Direction="Input" ParameterName="codigo" Precision="0" ProviderType="Char" Scale="0" Size="18" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="modifi" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="FillByDescr" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByDescr" GeneratorSourceName="FillByDescr" GetMethodModifier="Public" GetMethodName="GetDataByDescr" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByDescr" UserSourceName="FillByDescr">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        codigo, descr, precio, precio2 AS divisa, codsaint AS divisafactor
+FROM            modifi
+WHERE        (descr LIKE ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param1" ColumnName="descr" DataSourceName="modifi" DataTypeServer="DbType.AnsiStringFixedLength(40)" DbType="AnsiString" Direction="Input" ParameterName="descr" Precision="0" ProviderType="Char" Scale="0" Size="40" SourceColumn="descr" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectType="Unknown" GenerateShortCommands="true" GeneratorSourceName="UpdateQuerybyCodigo" Modifier="Public" Name="UpdateQuerybyCodigo" QueryType="NoData" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="UpdateQuerybyCodigo">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>UPDATE       modifi
+SET                descr = ?, precio = ?, precio2 = ?, codsaint = ?
+WHERE        (codigo = ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param1" ColumnName="descr" DataSourceName="modifi" DataTypeServer="DbType.AnsiStringFixedLength(40)" DbType="AnsiString" Direction="Input" ParameterName="descr" Precision="0" ProviderType="Char" Scale="0" Size="40" SourceColumn="descr" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param2" ColumnName="precio" DataSourceName="modifi" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param3" ColumnName="precio2" DataSourceName="modifi" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio2" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio2" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param4" ColumnName="codsaint" DataSourceName="modifi" DataTypeServer="DbType.AnsiStringFixedLength(15)" DbType="AnsiString" Direction="Input" ParameterName="codsaint" Precision="0" ProviderType="Char" Scale="0" Size="15" SourceColumn="codsaint" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param5" ColumnName="codigo" DataSourceName="modifi" DataTypeServer="DbType.AnsiStringFixedLength(18)" DbType="AnsiString" Direction="Input" ParameterName="Original_codigo" Precision="0" ProviderType="Char" Scale="0" Size="18" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>UPDATE       modifi
+SET                codigo = ?, descr = ?, precio = ?, precio2 = ?, codsaint = ?
+WHERE        (codigo = ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param1" ColumnName="codigo" DataSourceName="modifi" DataTypeServer="DbType.AnsiStringFixedLength(18)" DbType="AnsiString" Direction="Input" ParameterName="codigo" Precision="0" ProviderType="Char" Scale="0" Size="18" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param2" ColumnName="descr" DataSourceName="modifi" DataTypeServer="DbType.AnsiStringFixedLength(40)" DbType="AnsiString" Direction="Input" ParameterName="descr" Precision="0" ProviderType="Char" Scale="0" Size="40" SourceColumn="descr" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param3" ColumnName="precio" DataSourceName="modifi" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param4" ColumnName="precio2" DataSourceName="modifi" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio2" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio2" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param5" ColumnName="codsaint" DataSourceName="modifi" DataTypeServer="DbType.AnsiStringFixedLength(15)" DbType="AnsiString" Direction="Input" ParameterName="codsaint" Precision="0" ProviderType="Char" Scale="0" Size="15" SourceColumn="codsaint" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param6" ColumnName="codigo" DataSourceName="modifi" DataTypeServer="DbType.AnsiStringFixedLength(18)" DbType="AnsiString" Direction="Input" ParameterName="Original_codigo" Precision="0" ProviderType="Char" Scale="0" Size="18" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tmpmodifiTableAdapter" GeneratorDataComponentClassName="tmpmodifiTableAdapter" Name="tmpmodifi" UserDataComponentName="tmpmodifiTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="modifi" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>INSERT INTO `modifi` (`codigo`, `descr`, `precio`, `precio2`) VALUES (?, ?, ?, ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="codigo" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="descr" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="descr" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Decimal" Direction="Input" ParameterName="precio" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Decimal" Direction="Input" ParameterName="divisa" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="divisa" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT        codigo, descr, precio, precio2 AS divisa, codsaint AS divisafactor
+FROM            modifi</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="codigo" DataSetColumn="codigo" />
+              <Mapping SourceColumn="descr" DataSetColumn="descr" />
+              <Mapping SourceColumn="precio" DataSetColumn="precio" />
+              <Mapping SourceColumn="divisa" DataSetColumn="divisa" />
+              <Mapping SourceColumn="divisafactor" DataSetColumn="divisafactor" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="modifi" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="FillByCodigo" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByCodigo" GeneratorSourceName="FillByCodigo" GetMethodModifier="Public" GetMethodName="GetDataByCodigo" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByCodigo" UserSourceName="FillByCodigo">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT codigo, codsaint AS divisafactor, descr, precio, precio2 AS divisa FROM modifi WHERE (codigo = ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param1" ColumnName="codigo" DataSourceName="" DataTypeServer="DbType.AnsiStringFixedLength(18)" DbType="AnsiString" Direction="Input" ParameterName="codigo" Precision="0" ProviderType="Char" Scale="0" Size="18" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectName="modifi" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="FillByDescr" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByDescr" GeneratorSourceName="FillByDescr" GetMethodModifier="Public" GetMethodName="GetDataByDescr" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByDescr" UserSourceName="FillByDescr">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT codigo, codsaint AS divisafactor, descr, precio, precio2 AS divisa FROM modifi WHERE (descr LIKE ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param1" ColumnName="descr" DataSourceName="" DataTypeServer="DbType.AnsiStringFixedLength(40)" DbType="AnsiString" Direction="Input" ParameterName="descr" Precision="0" ProviderType="Char" Scale="0" Size="40" SourceColumn="descr" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="cnnRestTrump (Settings)" DbObjectType="Unknown" GenerateShortCommands="true" GeneratorSourceName="UpdateQuerybyCodigo" Modifier="Public" Name="UpdateQuerybyCodigo" QueryType="NoData" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="UpdateQuerybyCodigo">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>UPDATE       modifi
+SET                descr = ?, precio = ?, precio2 = ?, codsaint = ?
+WHERE        (codigo = ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param1" ColumnName="descr" DataSourceName="" DataTypeServer="DbType.AnsiStringFixedLength(40)" DbType="AnsiString" Direction="Input" ParameterName="descr" Precision="0" ProviderType="Char" Scale="0" Size="40" SourceColumn="descr" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param2" ColumnName="precio" DataSourceName="" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param3" ColumnName="precio2" DataSourceName="" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio2" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio2" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param4" ColumnName="codsaint" DataSourceName="" DataTypeServer="DbType.AnsiStringFixedLength(15)" DbType="AnsiString" Direction="Input" ParameterName="codsaint" Precision="0" ProviderType="Char" Scale="0" Size="15" SourceColumn="codsaint" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param5" ColumnName="codigo" DataSourceName="" DataTypeServer="DbType.AnsiStringFixedLength(18)" DbType="AnsiString" Direction="Input" ParameterName="Original_codigo" Precision="0" ProviderType="Char" Scale="0" Size="18" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>UPDATE       modifi
+SET                codigo = ?, descr = ?, precio = ?, precio2 = ?, codsaint = ?
+WHERE        (codigo = ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param1" ColumnName="codigo" DataSourceName="" DataTypeServer="DbType.AnsiStringFixedLength(18)" DbType="AnsiString" Direction="Input" ParameterName="codigo" Precision="0" ProviderType="Char" Scale="0" Size="18" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param2" ColumnName="descr" DataSourceName="" DataTypeServer="DbType.AnsiStringFixedLength(40)" DbType="AnsiString" Direction="Input" ParameterName="descr" Precision="0" ProviderType="Char" Scale="0" Size="40" SourceColumn="descr" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param3" ColumnName="precio" DataSourceName="" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param4" ColumnName="precio2" DataSourceName="" DataTypeServer="DbType.VarNumeric" DbType="Decimal" Direction="Input" ParameterName="precio2" Precision="12" ProviderType="Numeric" Scale="2" Size="0" SourceColumn="precio2" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param5" ColumnName="codsaint" DataSourceName="" DataTypeServer="DbType.AnsiStringFixedLength(15)" DbType="AnsiString" Direction="Input" ParameterName="codsaint" Precision="0" ProviderType="Char" Scale="0" Size="15" SourceColumn="codsaint" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Param6" ColumnName="codigo" DataSourceName="" DataTypeServer="DbType.AnsiStringFixedLength(18)" DbType="AnsiString" Direction="Input" ParameterName="Original_codigo" Precision="0" ProviderType="Char" Scale="0" Size="18" SourceColumn="codigo" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsPpal" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsPpal" msprop:Generator_UserDSName="dsPpal">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="invenc" msprop:Generator_TableClassName="invencDataTable" msprop:Generator_TableVarName="tableinvenc" msprop:Generator_TablePropName="invenc" msprop:Generator_RowDeletingName="invencRowDeleting" msprop:Generator_RowChangingName="invencRowChanging" msprop:Generator_RowEvHandlerName="invencRowChangeEventHandler" msprop:Generator_RowDeletedName="invencRowDeleted" msprop:Generator_UserTableName="invenc" msprop:Generator_RowChangedName="invencRowChanged" msprop:Generator_RowEvArgName="invencRowChangeEvent" msprop:Generator_RowClassName="invencRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo" msprop:Generator_ColumnVarNameInTable="columncodigo" msprop:Generator_ColumnPropNameInRow="codigo" msprop:Generator_ColumnPropNameInTable="codigoColumn" msprop:Generator_UserColumnName="codigo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="18" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="descr" msprop:Generator_ColumnVarNameInTable="columndescr" msprop:Generator_ColumnPropNameInRow="descr" msprop:Generator_ColumnPropNameInTable="descrColumn" msprop:Generator_UserColumnName="descr" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="precio" msprop:Generator_ColumnVarNameInTable="columnprecio" msprop:Generator_ColumnPropNameInRow="precio" msprop:Generator_ColumnPropNameInTable="precioColumn" msprop:Generator_UserColumnName="precio" type="xs:decimal" minOccurs="0" />
+              <xs:element name="tiva" msprop:Generator_ColumnVarNameInTable="columntiva" msprop:Generator_ColumnPropNameInRow="tiva" msprop:Generator_ColumnPropNameInTable="tivaColumn" msprop:Generator_UserColumnName="tiva" type="xs:decimal" minOccurs="0" />
+              <xs:element name="divisa" msprop:Generator_ColumnVarNameInTable="columndivisa" msprop:Generator_ColumnPropNameInRow="divisa" msprop:Generator_ColumnPropNameInTable="divisaColumn" msprop:Generator_UserColumnName="divisa" type="xs:decimal" minOccurs="0" />
+              <xs:element name="grupo" msprop:Generator_ColumnVarNameInTable="columngrupo" msprop:Generator_ColumnPropNameInRow="grupo" msprop:Generator_ColumnPropNameInTable="grupoColumn" msprop:Generator_UserColumnName="grupo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="nombre" msprop:Generator_ColumnVarNameInTable="columnnombre" msprop:Generator_ColumnPropNameInRow="nombre" msprop:Generator_ColumnPropNameInTable="nombreColumn" msprop:Generator_UserColumnName="nombre" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="descrkp" msprop:Generator_ColumnVarNameInTable="columndescrkp" msprop:Generator_ColumnPropNameInRow="descrkp" msprop:Generator_ColumnPropNameInTable="descrkpColumn" msprop:Generator_UserColumnName="descrkp" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="unidad" msprop:Generator_ColumnVarNameInTable="columnunidad" msprop:Generator_ColumnPropNameInRow="unidad" msprop:Generator_ColumnPropNameInTable="unidadColumn" msprop:Generator_UserColumnName="unidad" type="xs:decimal" minOccurs="0" />
+              <xs:element name="unidade" msprop:Generator_ColumnVarNameInTable="columnunidade" msprop:Generator_ColumnPropNameInRow="unidade" msprop:Generator_ColumnPropNameInTable="unidadeColumn" msprop:Generator_UserColumnName="unidade" type="xs:decimal" minOccurs="0" />
+              <xs:element name="titulo" msprop:Generator_ColumnVarNameInTable="columntitulo" msprop:Generator_ColumnPropNameInRow="titulo" msprop:Generator_ColumnPropNameInTable="tituloColumn" msprop:Generator_UserColumnName="titulo" type="xs:decimal" minOccurs="0" />
+              <xs:element name="colorf" msprop:Generator_ColumnVarNameInTable="columncolorf" msprop:Generator_ColumnPropNameInRow="colorf" msprop:Generator_ColumnPropNameInTable="colorfColumn" msprop:Generator_UserColumnName="colorf" type="xs:decimal" minOccurs="0" />
+              <xs:element name="servi" msprop:Generator_ColumnVarNameInTable="columnservi" msprop:Generator_ColumnPropNameInRow="servi" msprop:Generator_ColumnPropNameInTable="serviColumn" msprop:Generator_UserColumnName="servi" type="xs:decimal" minOccurs="0" />
+              <xs:element name="altoi" msprop:Generator_ColumnVarNameInTable="columnaltoi" msprop:Generator_ColumnPropNameInRow="altoi" msprop:Generator_ColumnPropNameInTable="altoiColumn" msprop:Generator_UserColumnName="altoi" type="xs:decimal" minOccurs="0" />
+              <xs:element name="anchoi" msprop:Generator_ColumnVarNameInTable="columnanchoi" msprop:Generator_ColumnPropNameInRow="anchoi" msprop:Generator_ColumnPropNameInTable="anchoiColumn" msprop:Generator_UserColumnName="anchoi" type="xs:decimal" minOccurs="0" />
+              <xs:element name="fuentet" msprop:Generator_ColumnVarNameInTable="columnfuentet" msprop:Generator_ColumnPropNameInRow="fuentet" msprop:Generator_ColumnPropNameInTable="fuentetColumn" msprop:Generator_UserColumnName="fuentet" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="fuentef" msprop:Generator_ColumnVarNameInTable="columnfuentef" msprop:Generator_ColumnPropNameInRow="fuentef" msprop:Generator_ColumnPropNameInTable="fuentefColumn" msprop:Generator_UserColumnName="fuentef" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="fuentec" msprop:Generator_ColumnVarNameInTable="columnfuentec" msprop:Generator_ColumnPropNameInRow="fuentec" msprop:Generator_ColumnPropNameInTable="fuentecColumn" msprop:Generator_UserColumnName="fuentec" type="xs:decimal" minOccurs="0" />
+              <xs:element name="fuentes" msprop:Generator_ColumnVarNameInTable="columnfuentes" msprop:Generator_ColumnPropNameInRow="fuentes" msprop:Generator_ColumnPropNameInTable="fuentesColumn" msprop:Generator_UserColumnName="fuentes" type="xs:decimal" minOccurs="0" />
+              <xs:element name="nivel" msprop:Generator_ColumnVarNameInTable="columnnivel" msprop:Generator_ColumnPropNameInRow="nivel" msprop:Generator_ColumnPropNameInTable="nivelColumn" msprop:Generator_UserColumnName="nivel" type="xs:decimal" minOccurs="0" />
+              <xs:element name="pidepre" msprop:Generator_ColumnVarNameInTable="columnpidepre" msprop:Generator_ColumnPropNameInRow="pidepre" msprop:Generator_ColumnPropNameInTable="pidepreColumn" msprop:Generator_UserColumnName="pidepre" type="xs:decimal" minOccurs="0" />
+              <xs:element name="pidecanti" msprop:Generator_ColumnVarNameInTable="columnpidecanti" msprop:Generator_ColumnPropNameInRow="pidecanti" msprop:Generator_ColumnPropNameInTable="pidecantiColumn" msprop:Generator_UserColumnName="pidecanti" type="xs:decimal" minOccurs="0" />
+              <xs:element name="retorno" msprop:Generator_ColumnVarNameInTable="columnretorno" msprop:Generator_ColumnPropNameInRow="retorno" msprop:Generator_ColumnPropNameInTable="retornoColumn" msprop:Generator_UserColumnName="retorno" type="xs:decimal" minOccurs="0" />
+              <xs:element name="fuentetop" msprop:Generator_ColumnVarNameInTable="columnfuentetop" msprop:Generator_ColumnPropNameInRow="fuentetop" msprop:Generator_ColumnPropNameInTable="fuentetopColumn" msprop:Generator_UserColumnName="fuentetop" type="xs:decimal" minOccurs="0" />
+              <xs:element name="marca" msprop:Generator_ColumnVarNameInTable="columnmarca" msprop:Generator_ColumnPropNameInRow="marca" msprop:Generator_ColumnPropNameInTable="marcaColumn" msprop:Generator_UserColumnName="marca" type="xs:decimal" minOccurs="0" />
+              <xs:element name="maximo_ex" msprop:Generator_ColumnVarNameInTable="columnmaximo_ex" msprop:Generator_ColumnPropNameInRow="maximo_ex" msprop:Generator_ColumnPropNameInTable="maximo_exColumn" msprop:Generator_UserColumnName="maximo_ex" type="xs:decimal" minOccurs="0" />
+              <xs:element name="maximo_sus" msprop:Generator_ColumnVarNameInTable="columnmaximo_sus" msprop:Generator_ColumnPropNameInRow="maximo_sus" msprop:Generator_ColumnPropNameInTable="maximo_susColumn" msprop:Generator_UserColumnName="maximo_sus" type="xs:decimal" minOccurs="0" />
+              <xs:element name="bloqueor" msprop:Generator_ColumnVarNameInTable="columnbloqueor" msprop:Generator_ColumnPropNameInRow="bloqueor" msprop:Generator_ColumnPropNameInTable="bloqueorColumn" msprop:Generator_UserColumnName="bloqueor" type="xs:decimal" minOccurs="0" />
+              <xs:element name="peso" msprop:Generator_ColumnVarNameInTable="columnpeso" msprop:Generator_ColumnPropNameInRow="peso" msprop:Generator_ColumnPropNameInTable="pesoColumn" msprop:Generator_UserColumnName="peso" type="xs:decimal" minOccurs="0" />
+              <xs:element name="unidadc" msprop:Generator_ColumnVarNameInTable="columnunidadc" msprop:Generator_ColumnPropNameInRow="unidadc" msprop:Generator_ColumnPropNameInTable="unidadcColumn" msprop:Generator_UserColumnName="unidadc" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="medidae" msprop:Generator_ColumnVarNameInTable="columnmedidae" msprop:Generator_ColumnPropNameInRow="medidae" msprop:Generator_ColumnPropNameInTable="medidaeColumn" msprop:Generator_UserColumnName="medidae" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="areceta" msprop:Generator_ColumnVarNameInTable="columnareceta" msprop:Generator_ColumnPropNameInRow="areceta" msprop:Generator_ColumnPropNameInTable="arecetaColumn" msprop:Generator_UserColumnName="areceta" type="xs:decimal" minOccurs="0" />
+              <xs:element name="cantides" msprop:Generator_ColumnVarNameInTable="columncantides" msprop:Generator_ColumnPropNameInRow="cantides" msprop:Generator_ColumnPropNameInTable="cantidesColumn" msprop:Generator_UserColumnName="cantides" type="xs:decimal" minOccurs="0" />
+              <xs:element name="lastsin" msprop:Generator_ColumnVarNameInTable="columnlastsin" msprop:Generator_ColumnPropNameInRow="lastsin" msprop:Generator_ColumnPropNameInTable="lastsinColumn" msprop:Generator_UserColumnName="lastsin" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="lastup" msprop:Generator_ColumnVarNameInTable="columnlastup" msprop:Generator_ColumnPropNameInRow="lastup" msprop:Generator_ColumnPropNameInTable="lastupColumn" msprop:Generator_UserColumnName="lastup" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="barra" msprop:Generator_ColumnVarNameInTable="columnbarra" msprop:Generator_ColumnPropNameInRow="barra" msprop:Generator_ColumnPropNameInTable="barraColumn" msprop:Generator_UserColumnName="barra" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="18" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="divisafactor" msprop:Generator_ColumnVarNameInTable="columndivisafactor" msprop:Generator_ColumnPropNameInRow="divisafactor" msprop:Generator_ColumnPropNameInTable="divisafactorColumn" msprop:Generator_UserColumnName="divisafactor" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="clasifi" msprop:Generator_ColumnVarNameInTable="columnclasifi" msprop:Generator_ColumnPropNameInRow="clasifi" msprop:Generator_ColumnPropNameInTable="clasifiColumn" msprop:Generator_UserColumnName="clasifi" type="xs:decimal" minOccurs="0" />
+              <xs:element name="precio1" msprop:Generator_ColumnVarNameInTable="columnprecio1" msprop:Generator_ColumnPropNameInRow="precio1" msprop:Generator_ColumnPropNameInTable="precio1Column" msprop:Generator_UserColumnName="precio1" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tax" msprop:Generator_TableClassName="taxDataTable" msprop:Generator_TableVarName="tabletax" msprop:Generator_RowChangedName="taxRowChanged" msprop:Generator_TablePropName="tax" msprop:Generator_RowDeletingName="taxRowDeleting" msprop:Generator_RowChangingName="taxRowChanging" msprop:Generator_RowEvHandlerName="taxRowChangeEventHandler" msprop:Generator_RowDeletedName="taxRowDeleted" msprop:Generator_RowClassName="taxRow" msprop:Generator_UserTableName="tax" msprop:Generator_RowEvArgName="taxRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="tipo" msprop:Generator_ColumnVarNameInTable="columntipo" msprop:Generator_ColumnPropNameInRow="tipo" msprop:Generator_ColumnPropNameInTable="tipoColumn" msprop:Generator_UserColumnName="tipo" type="xs:decimal" minOccurs="0" />
+              <xs:element name="valor" msprop:Generator_ColumnVarNameInTable="columnvalor" msprop:Generator_ColumnPropNameInRow="valor" msprop:Generator_ColumnPropNameInTable="valorColumn" msprop:Generator_UserColumnName="valor" type="xs:decimal" minOccurs="0" />
+              <xs:element name="nombre" msprop:Generator_ColumnVarNameInTable="columnnombre" msprop:Generator_ColumnPropNameInRow="nombre" msprop:Generator_ColumnPropNameInTable="nombreColumn" msprop:Generator_UserColumnName="nombre" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="nomencla" msprop:Generator_ColumnVarNameInTable="columnnomencla" msprop:Generator_ColumnPropNameInRow="nomencla" msprop:Generator_ColumnPropNameInTable="nomenclaColumn" msprop:Generator_UserColumnName="nomencla" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="invenc_usa" msprop:Generator_TableClassName="invenc_usaDataTable" msprop:Generator_TableVarName="tableinvenc_usa" msprop:Generator_TablePropName="invenc_usa" msprop:Generator_RowDeletingName="invenc_usaRowDeleting" msprop:Generator_RowChangingName="invenc_usaRowChanging" msprop:Generator_RowEvHandlerName="invenc_usaRowChangeEventHandler" msprop:Generator_RowDeletedName="invenc_usaRowDeleted" msprop:Generator_UserTableName="invenc_usa" msprop:Generator_RowChangedName="invenc_usaRowChanged" msprop:Generator_RowEvArgName="invenc_usaRowChangeEvent" msprop:Generator_RowClassName="invenc_usaRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo" msprop:Generator_ColumnVarNameInTable="columncodigo" msprop:Generator_ColumnPropNameInRow="codigo" msprop:Generator_ColumnPropNameInTable="codigoColumn" msprop:Generator_UserColumnName="codigo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="18" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="descr" msprop:Generator_ColumnVarNameInTable="columndescr" msprop:Generator_ColumnPropNameInRow="descr" msprop:Generator_ColumnPropNameInTable="descrColumn" msprop:Generator_UserColumnName="descr" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="precio" msprop:Generator_ColumnVarNameInTable="columnprecio" msprop:Generator_ColumnPropNameInRow="precio" msprop:Generator_ColumnPropNameInTable="precioColumn" msprop:Generator_UserColumnName="precio" type="xs:decimal" minOccurs="0" />
+              <xs:element name="divisa" msprop:Generator_ColumnVarNameInTable="columndivisa" msprop:Generator_ColumnPropNameInRow="divisa" msprop:Generator_ColumnPropNameInTable="divisaColumn" msprop:Generator_UserColumnName="divisa" type="xs:decimal" minOccurs="0" />
+              <xs:element name="divisafactor" msprop:Generator_ColumnVarNameInTable="columndivisafactor" msprop:Generator_ColumnPropNameInRow="divisafactor" msprop:Generator_ColumnPropNameInTable="divisafactorColumn" msprop:Generator_UserColumnName="divisafactor" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="grupo" msprop:Generator_TableClassName="grupoDataTable" msprop:Generator_TableVarName="tablegrupo" msprop:Generator_TablePropName="grupo" msprop:Generator_RowDeletingName="grupoRowDeleting" msprop:Generator_RowChangingName="grupoRowChanging" msprop:Generator_RowEvHandlerName="grupoRowChangeEventHandler" msprop:Generator_RowDeletedName="grupoRowDeleted" msprop:Generator_UserTableName="grupo" msprop:Generator_RowChangedName="grupoRowChanged" msprop:Generator_RowEvArgName="grupoRowChangeEvent" msprop:Generator_RowClassName="grupoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo" msprop:Generator_ColumnVarNameInTable="columncodigo" msprop:Generator_ColumnPropNameInRow="codigo" msprop:Generator_ColumnPropNameInTable="codigoColumn" msprop:Generator_UserColumnName="codigo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="nombre" msprop:Generator_ColumnVarNameInTable="columnnombre" msprop:Generator_ColumnPropNameInRow="nombre" msprop:Generator_ColumnPropNameInTable="nombreColumn" msprop:Generator_UserColumnName="nombre" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tipo_empa" msprop:Generator_TableClassName="tipo_empaDataTable" msprop:Generator_TableVarName="tabletipo_empa" msprop:Generator_TablePropName="tipo_empa" msprop:Generator_RowDeletingName="tipo_empaRowDeleting" msprop:Generator_RowChangingName="tipo_empaRowChanging" msprop:Generator_RowEvHandlerName="tipo_empaRowChangeEventHandler" msprop:Generator_RowDeletedName="tipo_empaRowDeleted" msprop:Generator_UserTableName="tipo_empa" msprop:Generator_RowChangedName="tipo_empaRowChanged" msprop:Generator_RowEvArgName="tipo_empaRowChangeEvent" msprop:Generator_RowClassName="tipo_empaRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo" msprop:Generator_ColumnVarNameInTable="columncodigo" msprop:Generator_ColumnPropNameInRow="codigo" msprop:Generator_ColumnPropNameInTable="codigoColumn" msprop:Generator_UserColumnName="codigo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="descr" msprop:Generator_ColumnVarNameInTable="columndescr" msprop:Generator_ColumnPropNameInRow="descr" msprop:Generator_ColumnPropNameInTable="descrColumn" msprop:Generator_UserColumnName="descr" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="descr1" msprop:Generator_ColumnVarNameInTable="columndescr1" msprop:Generator_ColumnPropNameInRow="descr1" msprop:Generator_ColumnPropNameInTable="descr1Column" msprop:Generator_UserColumnName="descr1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="monedas" msprop:Generator_TableClassName="monedasDataTable" msprop:Generator_TableVarName="tablemonedas" msprop:Generator_TablePropName="monedas" msprop:Generator_RowDeletingName="monedasRowDeleting" msprop:Generator_RowChangingName="monedasRowChanging" msprop:Generator_RowEvHandlerName="monedasRowChangeEventHandler" msprop:Generator_RowDeletedName="monedasRowDeleted" msprop:Generator_UserTableName="monedas" msprop:Generator_RowChangedName="monedasRowChanged" msprop:Generator_RowEvArgName="monedasRowChangeEvent" msprop:Generator_RowClassName="monedasRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo" msprop:Generator_ColumnVarNameInTable="columncodigo" msprop:Generator_ColumnPropNameInRow="codigo" msprop:Generator_ColumnPropNameInTable="codigoColumn" msprop:Generator_UserColumnName="codigo" type="xs:decimal" minOccurs="0" />
+              <xs:element name="factor" msprop:Generator_ColumnVarNameInTable="columnfactor" msprop:Generator_ColumnPropNameInRow="factor" msprop:Generator_ColumnPropNameInTable="factorColumn" msprop:Generator_UserColumnName="factor" type="xs:decimal" minOccurs="0" />
+              <xs:element name="descr" msprop:Generator_ColumnVarNameInTable="columndescr" msprop:Generator_ColumnPropNameInRow="descr" msprop:Generator_ColumnPropNameInTable="descrColumn" msprop:Generator_UserColumnName="descr" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="local" msprop:Generator_ColumnVarNameInTable="columnlocal" msprop:Generator_ColumnPropNameInRow="local" msprop:Generator_ColumnPropNameInTable="localColumn" msprop:Generator_UserColumnName="local" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="modifi" msprop:Generator_TableClassName="modifiDataTable" msprop:Generator_TableVarName="tablemodifi" msprop:Generator_TablePropName="modifi" msprop:Generator_RowDeletingName="modifiRowDeleting" msprop:Generator_RowChangingName="modifiRowChanging" msprop:Generator_RowEvHandlerName="modifiRowChangeEventHandler" msprop:Generator_RowDeletedName="modifiRowDeleted" msprop:Generator_UserTableName="modifi" msprop:Generator_RowChangedName="modifiRowChanged" msprop:Generator_RowEvArgName="modifiRowChangeEvent" msprop:Generator_RowClassName="modifiRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo" msprop:Generator_ColumnVarNameInTable="columncodigo" msprop:Generator_ColumnPropNameInRow="codigo" msprop:Generator_ColumnPropNameInTable="codigoColumn" msprop:Generator_UserColumnName="codigo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="18" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="descr" msprop:Generator_ColumnVarNameInTable="columndescr" msprop:Generator_ColumnPropNameInRow="descr" msprop:Generator_ColumnPropNameInTable="descrColumn" msprop:Generator_UserColumnName="descr" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="precio" msprop:Generator_ColumnVarNameInTable="columnprecio" msprop:Generator_ColumnPropNameInRow="precio" msprop:Generator_ColumnPropNameInTable="precioColumn" msprop:Generator_UserColumnName="precio" type="xs:decimal" minOccurs="0" />
+              <xs:element name="divisa" msprop:Generator_ColumnVarNameInTable="columndivisa" msprop:Generator_ColumnPropNameInRow="divisa" msprop:Generator_ColumnPropNameInTable="divisaColumn" msprop:Generator_UserColumnName="divisa" type="xs:decimal" minOccurs="0" />
+              <xs:element name="divisafactor" msprop:Generator_ColumnVarNameInTable="columndivisafactor" msprop:Generator_ColumnPropNameInRow="divisafactor" msprop:Generator_ColumnPropNameInTable="divisafactorColumn" msprop:Generator_UserColumnName="divisafactor" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tmpmodifi" msprop:Generator_TableClassName="tmpmodifiDataTable" msprop:Generator_TableVarName="tabletmpmodifi" msprop:Generator_RowChangedName="tmpmodifiRowChanged" msprop:Generator_TablePropName="tmpmodifi" msprop:Generator_RowDeletingName="tmpmodifiRowDeleting" msprop:Generator_RowChangingName="tmpmodifiRowChanging" msprop:Generator_RowEvHandlerName="tmpmodifiRowChangeEventHandler" msprop:Generator_RowDeletedName="tmpmodifiRowDeleted" msprop:Generator_RowClassName="tmpmodifiRow" msprop:Generator_UserTableName="tmpmodifi" msprop:Generator_RowEvArgName="tmpmodifiRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo" msprop:Generator_ColumnVarNameInTable="columncodigo" msprop:Generator_ColumnPropNameInRow="codigo" msprop:Generator_ColumnPropNameInTable="codigoColumn" msprop:Generator_UserColumnName="codigo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="18" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="descr" msprop:Generator_ColumnVarNameInTable="columndescr" msprop:Generator_ColumnPropNameInRow="descr" msprop:Generator_ColumnPropNameInTable="descrColumn" msprop:Generator_UserColumnName="descr" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="precio" msprop:Generator_ColumnVarNameInTable="columnprecio" msprop:Generator_ColumnPropNameInRow="precio" msprop:Generator_ColumnPropNameInTable="precioColumn" msprop:Generator_UserColumnName="precio" type="xs:decimal" minOccurs="0" />
+              <xs:element name="divisa" msprop:Generator_ColumnVarNameInTable="columndivisa" msprop:Generator_ColumnPropNameInRow="divisa" msprop:Generator_ColumnPropNameInTable="divisaColumn" msprop:Generator_UserColumnName="divisa" type="xs:decimal" minOccurs="0" />
+              <xs:element name="divisafactor" msprop:Generator_ColumnVarNameInTable="columndivisafactor" msprop:Generator_ColumnPropNameInRow="divisafactor" msprop:Generator_ColumnPropNameInTable="divisafactorColumn" msprop:Generator_UserColumnName="divisafactor" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

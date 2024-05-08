@@ -1,0 +1,1032 @@
+@29/10/2020 12:38:09 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:10 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:10 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:10 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:10 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:11 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:11 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:11 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:11 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:11 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:11 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:11 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:11 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:11 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:11 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:11 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:11 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:11 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:11 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:11 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:11 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:11 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:11 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:11 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:11 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:11 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:12 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:12 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:12 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:12 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:12 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:12 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:12 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:12 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:12 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:12 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:12 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:12 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:12 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:12 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:12 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:12 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:12 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:13 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:13 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:13 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:13 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:13 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:13 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:13 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:13 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:13 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:13 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:13 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:13 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:13 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:13 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:13 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:13 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:13 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:13 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:13 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:14 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:14 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:14 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:14 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:14 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:14 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:14 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:14 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:14 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:14 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:15 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:15 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:15 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:15 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:15 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:15 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:15 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:16 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:16 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:16 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:16 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:16 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:16 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:16 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:16 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:16 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:16 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:16 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:16 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:16 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:16 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:16 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:16 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:16 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:16 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:16 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:17 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:17 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:17 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:17 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:17 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:17 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:17 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:17 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:17 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:17 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:17 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:17 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:17 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:17 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:17 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:17 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:17 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:17 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:17 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:17 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:18 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:18 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:18 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:18 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\system32\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:18 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:18 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:18 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:18 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:18 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:18 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:18 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:18 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:18 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:18 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:18 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:18 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:18 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:18 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:18 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:19 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:19 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:19 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:19 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:19 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:19 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:19 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:19 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:19 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:19 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:19 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:19 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:19 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:19 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:19 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:19 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:19 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:19 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:20 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:20 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:20 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:20 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:20 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:20 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:20 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:20 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:20 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:20 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:20 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:20 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:20 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:20 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:20 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:20 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742
+@29/10/2020 12:38:20 a. m.@Error: Acceso denegado a la ruta de acceso 'C:\Windows\RestTrumpX32.exe.xml'.@Módulo Origen: CommonLanguageRuntimeLibrary@Funcion origen: WinIOError@Ruta origen: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll@Pila Llamadas:   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en System.Xml.XmlDocument.Save(String filename)
+   en ksslib_c.App.clsConfigXML.Save() en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 453
+   en ksslib_c.App.clsConfigXML.cfgSetValue(String seccion, String clave, String valor) en D:\KSS Projects\kss_librerias\KSS_Lib_c\App\clsConfigXML.cs:línea 742

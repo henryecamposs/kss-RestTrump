@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections>
+    <section name="General" type="System.Configuration.DictionarySectionHandler" />
+  </configSections>
+  <General>
+    <!-- Los valores irán dentro del elemento indicado por la clave -->
+    <!-- Aunque también se podrán indicar como pares key / value -->
+    <add key="Revisión" value="Jan 2020" />
+    <!-- La clase siempre los añade como un elemento -->
+    <Copyright>© 2005-2017</Copyright>
+  </General>
+  <configXml_Info>
+    <info>
+    </info>
+    <copyright>© 2005-2017</copyright>
+    <revision>Jan 2020</revision>
+    <formatoUTF8>El formato de este fichero debe ser UTF-8</formatoUTF8>
+  </configXml_Info>
+  <App>
+    <nroDecimales>2</nroDecimales>
+    <claveAcceso>
+    </claveAcceso>
+    <esIVAIncluido>0</esIVAIncluido>
+    <nombrePuertoCOM>
+    </nombrePuertoCOM>
+    <esRest>0</esRest>
+    <esOnline>0</esOnline>
+    <nombreCaja>
+    </nombreCaja>
+    <CodigoCaja>
+    </CodigoCaja>
+    <nroSiguiente>0</nroSiguiente>
+    <cajaFechaAnterior>
+    </cajaFechaAnterior>
+    <UltimoNumeroFactura>0</UltimoNumeroFactura>
+    <esHead>0</esHead>
+    <Encabezado1>
+    </Encabezado1>
+    <Encabezado2>
+    </Encabezado2>
+    <Encabezado3>
+    </Encabezado3>
+    <Encabezado4>
+    </Encabezado4>
+    <Encabezado5>
+    </Encabezado5>
+    <Encabezado6>
+    </Encabezado6>
+    <Time>
+    </Time>
+    <HorasLaborablesDia>0</HorasLaborablesDia>
+    <PorcentajeDefault>30</PorcentajeDefault>
+    <esAutoFix>0</esAutoFix>
+    <esXDpto>0</esXDpto>
+    <esEasy>0</esEasy>
+    <TimeAutofix>
+    </TimeAutofix>
+    <fechaUltimoAutoFix>
+    </fechaUltimoAutoFix>
+    <esCOM>0</esCOM>
+    <GetReport>0</GetReport>
+    <esActiveIF>0</esActiveIF>
+    <esSQL>0</esSQL>
+    <esClientPersonalized>0</esClientPersonalized>
+  </App>
+  <Estacion>
+    <ID_Estacion>0</ID_Estacion>
+    <NombrePC>
+    </NombrePC>
+    <NombreEstacion>
+    </NombreEstacion>
+    <ID_UltimoUsuario>0</ID_UltimoUsuario>
+    <FechaUltimoAcceso>eÑ™5iÑ¦K˜/N­\ÀzùõâÈ}&lt;EüÆN</FechaUltimoAcceso>
+  </Estacion>
+  <Empresa>
+    <EmpresaTelefonoLocal>
+    </EmpresaTelefonoLocal>
+    <EmpresaDireccion1>
+    </EmpresaDireccion1>
+    <EmpresaNombre>EMPRESA DEMO</EmpresaNombre>
+    <EmpresaTelefonoMovil>
+    </EmpresaTelefonoMovil>
+  </Empresa>
+  <Licencia>
+    <licenciaKeyValidacion>RestTrumpRestTrump</licenciaKeyValidacion>
+    <EmpresaNombre>EMPRESA DEMO</EmpresaNombre>
+    <EmpresaRIF>123456789</EmpresaRIF>
+    <Serial>00CFFE0F-BFEB06A9-2A75884E-10DB67C6-04D0F919-0AD6306D</Serial>
+    <CodigoActivacion>578994-620543-582132</CodigoActivacion>
+    <CodigoRequerido>fÑ A}þùùïßÅˆ&#x12;!Cˆ</CodigoRequerido>
+    <FechaInstalacion>eÑ™5iÑ¦K˜/N­\ÀzùõáË@MæŽ</FechaInstalacion>
+    <FechaUltima>eÑ™5iÑ¦K˜/N­\ÀzùõáË@MæŽ</FechaUltima>
+    <UsosExpirados>c</UsosExpirados>
+    <enuTipoLicencia>y";v</enuTipoLicencia>
+    <esActiva>‡-]ª</esActiva>
+  </Licencia>
+  <Aplicacion>
+    <esRequiereClaveIniciarSesion>1</esRequiereClaveIniciarSesion>
+    <_sysEULAArchivo>
+    </_sysEULAArchivo>
+    <_sysEULAText>
+    </_sysEULAText>
+    <sysFechaDLL>1/1/2016 1:01:01 a. m.</sysFechaDLL>
+    <appDir>D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\Debug</appDir>
+    <appDir_Imagenes>D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\Debug\Imagenes</appDir_Imagenes>
+    <appDir_Reportes>D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\Debug\Reportes</appDir_Reportes>
+    <appDir_Datos>D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\Debug\Datos</appDir_Datos>
+    <appDir_Logs>D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\Debug\Logs</appDir_Logs>
+    <appDir_Backups>D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\Debug\Backups</appDir_Backups>
+    <esAppAbierta>1</esAppAbierta>
+    <CierresInesperados>0</CierresInesperados>
+  </Aplicacion>
+  <conexion>
+    <appCnnStringName>
+    </appCnnStringName>
+    <esServidorBD>1</esServidorBD>
+    <appDirDatosHuesped>C:\</appDirDatosHuesped>
+    <appDirDatosHost>D:\KSS Projects\extensions_local_projects\kss_RestTrump\RestTrump\bin\Debug\Datos</appDirDatosHost>
+    <appNombreHost>RestTrump</appNombreHost>
+    <appNombreHuesped>Desconocido</appNombreHuesped>
+    <appDirDatosHostServer>
+    </appDirDatosHostServer>
+    <appDirDatosHuespedServer>C:\</appDirDatosHuespedServer>
+    <appCadenaConexionHostServer>
+    </appCadenaConexionHostServer>
+    <appCadenaConexionHost>
+    </appCadenaConexionHost>
+    <appCadenaConexionHuespedServer>
+    </appCadenaConexionHuespedServer>
+    <appCadenaConexionHuesped>
+    </appCadenaConexionHuesped>
+    <cadenaConexionPlantillaHost>
+    </cadenaConexionPlantillaHost>
+    <CadenaConexionPlantillaHuesped>
+    </CadenaConexionPlantillaHuesped>
+    <NombreHostBD>
+    </NombreHostBD>
+    <NombreHuespedBD>
+    </NombreHuespedBD>
+    <PasswordHostBD>
+    </PasswordHostBD>
+    <UsuarioHostBD>
+    </UsuarioHostBD>
+    <UsuarioHuespedBD>
+    </UsuarioHuespedBD>
+    <PasswordHuespedDB>
+    </PasswordHuespedDB>
+    <enuTipoDatabase>NoDefinido</enuTipoDatabase>
+    <BaseDatosHuespedBD>
+    </BaseDatosHuespedBD>
+  </conexion>
+</configuration>
